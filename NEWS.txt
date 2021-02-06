@@ -4,6 +4,7 @@ Version 7.0 - not yet released
   - screen layout with 12 infoboxes on the left, vario+3 infoboxes on right
   - new translation: Traditional Chinese
   - new Logger-setting "CoPilot"
+  - new Logger-setting "WeGlide Pilot ID"
   - new setting "Thermal Averager needle"
   - select position of Thermal Assistant
 * data files
@@ -59,6 +60,8 @@ Version 7.0 - not yet released
   - improved auto-scaling of vario-like graphical infoboxes
   - new infobox: "Number Of Satellites"
   - new infoboxes for radio frequencies, including setting the frequencies
+* task
+  - add WeGlide declared task download
 * Windows
   - drop support for Windows CE
   - require Windows Vista or later
